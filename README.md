@@ -1,2 +1,2 @@
-# VIQRCScoring-RapidRelay
+# VIQRC Scoring - Rapid Relay
 A scoring system for the 24/25 game for VEXIQ
